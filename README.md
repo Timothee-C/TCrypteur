@@ -21,5 +21,5 @@ si vous avez besoin de noter des choses que vous seul devez être capable de rel
 
 # Installation
 
-Pour obtenir TCrypteur sur votre ordinateur, télechargez le dossier zip "TCrypteu_zip.zip",
-puis décompressez-le. Vous pouvez aussi directement télécharger l'executable et les ressources.
+Pour obtenir TCrypteur sur votre ordinateur, télechargez le dossier zip "TCrypteur_zip.zip",
+puis décompressez-le.
