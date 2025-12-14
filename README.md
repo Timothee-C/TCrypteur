@@ -1,6 +1,8 @@
 # TCrypteur
 Un logiciel de cryptage de texte par clé simple et facile d'utilisation.
 
+![logo](logo.gif "TCrypteur")
+
 # Présentation
 
 TCrypteur est un petit outil de cryptage de texte en fonction d'une clé composé de chiffres.
