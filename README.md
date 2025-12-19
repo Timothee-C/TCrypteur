@@ -13,6 +13,7 @@ Liste des modules python utilisés :
 * time
 * random
 * unidecode
+* webbrowser
 
 Lors du cryptage, le texte peut être légerement modifié :
 * suppression des accents et autres sur les lettres
